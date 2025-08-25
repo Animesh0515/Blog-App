@@ -43,7 +43,7 @@ Start development server: `npm start`
 
 
 ---
-###Test API with Postman
+### Test API with Postman
 
 A Postman collection is included (BlogApp.Django Blog App API.postman_collection.json).
 
@@ -58,7 +58,7 @@ Edit Post
 List Posts
 Get Post Detail
 
-###Create a User
+### Create a User
 
 Users can be created in two ways:
 
